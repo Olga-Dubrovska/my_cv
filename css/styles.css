@@ -93,6 +93,16 @@ body {
 
 /* #right-side */
 
+.translate-button {
+  display: inline-block;
+  background: #1e2939;
+  color: #fff;
+  padding: 15px 20px;
+  text-decoration: none;
+  border-radius: 3px;
+  float: right;
+}
+
 .bio,
 .projects {
   margin-bottom: 48px;
